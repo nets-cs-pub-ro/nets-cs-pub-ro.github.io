@@ -12,7 +12,7 @@
 #### Current doctoral students
 
 - Dragoș Dumitrescu
-- Vladimir Oleanu
+- Vladimir Olteanu
 - Costin Lupu
 - Radu Stoenescu
 - Mihai-Valentin Dumitru
