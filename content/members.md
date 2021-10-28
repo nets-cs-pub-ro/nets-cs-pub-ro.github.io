@@ -9,14 +9,14 @@
 - [Lorina Negreanu](https://cs.pub.ro/index.php/people/userprofile/lorina_negreanu) - formal methods, verification
 - [Matei Popovici](https://cs.pub.ro/index.php/people/userprofile/matei_popovici) - formal methods, verification
 
-#### Current students
+#### Current doctoral students
 
-- Dragoș Dumitrescu (PhD)
-- Vladimir Oleanu (PhD)
-- Costin Lupu (PhD)
-- Radu Stoenescu (PhD)
-- Mihai-Valentin Dumitru (PhD)
-- Laura Fluerătoru (PhD)
-- Vlad-Andrei Bădoiu (PhD)
-- Mihai-Drosi Câju (PhD)
+- Dragoș Dumitrescu
+- Vladimir Oleanu
+- Costin Lupu
+- Radu Stoenescu
+- Mihai-Valentin Dumitru
+- Laura Fluerătoru
+- Vlad-Andrei Bădoiu
+- Mihai-Drosi Câju
 
