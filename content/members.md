@@ -16,7 +16,7 @@
 - Costin Lupu (PhD)
 - Radu Stoenescu (PhD)
 - Mihai-Valentin Dumitru (PhD)
-- Laura Flueratorul (PhD)
+- Laura Flueratoru (PhD)
 - Vlad-Andrei Badoiu (PhD)
 - Mihai-Drosi Caju (PhD)
 
